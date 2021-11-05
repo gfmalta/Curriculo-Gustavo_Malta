@@ -45,7 +45,7 @@
     list-style: none;
 }
 .texto h2{
-    border: #2e2e2e solid 5px;
+    border: #2e2e2e solid 3px;
     background-color: #2e2e2e;
     color: #c0c0c0;
     margin-left: 0px;
@@ -55,12 +55,12 @@
 
 .body{
 font-family: arial, helvetica, sans-serif;
-font-size: 20px;
+font-size: 18px;
 }
 .menu{
     position: fixed;
     list-style:none;
-    border: 5px solid #040127;
+    border: 6px solid #040127;
     float:center;
     }
 .menu ul{
