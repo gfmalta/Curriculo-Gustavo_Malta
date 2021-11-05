@@ -14,7 +14,7 @@
     max-width: auto;
     align-items: center; 
     padding-left: 40px;
-    font-size: 30px;
+    font-size: 25px;
   
 }
 .background{ background-image:url("https://wallpaperaccess.com/full/4422658.jpg");
@@ -35,7 +35,7 @@
     margin-left: 0px;
     background-color: transparent;
     background-image: linear-gradient(to bottom, transparent, rgb(0, 0, 41));
-    font-size: 18px;
+    font-size: 17px;
         
 }
 .texto ul{
@@ -45,37 +45,44 @@
     list-style: none;
 }
 .texto h2{
-    border: #2e2e2e solid 3px;
+    border: #2e2e2e solid 4px;
     background-color: #2e2e2e;
     color: #c0c0c0;
     margin-left: 0px;
     padding: 0px;
+    font: 15px;
 }
 
 
 .body{
 font-family: arial, helvetica, sans-serif;
-font-size: 18px;
+font-size: 17px;
 }
 .menu{
     position: fixed;
     list-style:none;
-    border: 6px solid #040127;
+    border: 0px solid #040127;
     float:center;
+    width: 100%;
+    z-index: 9900;
     }
 .menu ul{
     padding:0px;
     margin:0px;
-    border: 1px solid #040127;
     background-color:#040127;
     list-style:none;    
+    border: solid 5px #040127;
 }
 
 .menu ul li { display: inline;
  }
 
 .menu li a{ 
-    color:rgb(199, 199, 199); text-decoration:none; padding:5px 10px; display:inline-block;
+    color:rgb(199, 199, 199); 
+    text-decoration:none;
+     padding:5px 10px; 
+     display:inline-block;
+     font-size: 21px;
 }
 
 .menu li a:hover{
