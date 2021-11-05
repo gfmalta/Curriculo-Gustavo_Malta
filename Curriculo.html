@@ -10,6 +10,7 @@
 </head>
 
 <body>
+    <section>
     <div class="menu">
         <section>
             <ul>
@@ -188,6 +189,7 @@
             </section>
         </section>
     </div>
+    </section>
 </body>
 
 </html>
